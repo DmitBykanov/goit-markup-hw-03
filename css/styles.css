@@ -276,7 +276,9 @@ header {
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
+  display: inline-block;
   color: #4d5ae5;
+  margin-bottom: 16px;
 }
 
 .studio-white {
@@ -296,6 +298,5 @@ header {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #f4f4fd;
-  margin-top: 16px;
   max-width: 264px;
 }
