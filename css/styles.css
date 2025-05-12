@@ -48,6 +48,7 @@ header {
 .page-nav {
   display: flex;
   align-items: center;
+  margin-right: 332px;
 }
 
 .logo {
@@ -58,7 +59,7 @@ header {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
-  display: inline-block;
+  padding: 24px 0;
   margin-right: 76px;
 }
 
@@ -76,8 +77,6 @@ header {
   display: flex;
   align-items: center;
   gap: 40px;
-  margin-right: 332px;
-  padding: 24px 0;
 }
 
 .nav-link {
@@ -278,8 +277,6 @@ header {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
-  display: inline-block;
-  margin-bottom: 16px;
 }
 
 .studio-white {
@@ -290,8 +287,6 @@ header {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #f4f4fd;
-  display: inline-block;
-  margin-bottom: 16px;
 }
 
 .footer-text {
@@ -301,5 +296,6 @@ header {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #f4f4fd;
+  margin-top: 16px;
   max-width: 264px;
 }
